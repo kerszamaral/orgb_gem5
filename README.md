@@ -5,6 +5,9 @@ The full documentation on gem5 can be found [here](https://www.gem5.org/document
 ## Prerequisites
 
 - Docker installed on your machine
+- Git installed on your machine
+
+After cloning this repository, go to the repository directory and follow the instructions below.
 
 ## How to build and run the docker container
 
