@@ -1,0 +1,8 @@
+__pycache__
+.vscode/
+m5out/*
+!m5out/.keep
+*.pyc
+orgb_progs/*
+!orgb_progs/*/
+!orgb_progs/*.*
