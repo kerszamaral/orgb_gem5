@@ -1,4 +1,6 @@
-# How to open gem5 simulator on docker
+# Docker container for gem5 simulator with x86 architecture for educational purposes
+
+The full documentation on gem5 can be found [here](https://www.gem5.org/documentation/).
 
 ## Prerequisites
 
